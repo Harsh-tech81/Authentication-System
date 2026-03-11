@@ -1,6 +1,3 @@
-# WDC Authentication System
-
-**Induction Task 2026 - Web Development Cell, NIT Patna**
 
 A secure, production-ready authentication system built with Node.js, Express, and MongoDB. Features bcrypt password hashing, JWT with HTTP-only cookies, rate limiting, and comprehensive security measures.
 
